@@ -11,7 +11,7 @@ Para ello, se transforma una tarea manual repetitiva (ingresar un RUC, hacer cli
 * Librería principal: Selenium para la automatización del navegador web (navegación, ingreso de datos y clicks).
 * Entorno: Jupyter Notebook
 
-## Metodología y Lógica del Script
+## Lógica del Script
 
 1.  El primer paso es configurar el driver. Se inicia el `WebDriver` de Selenium, configurando una carpeta de descarga predeterminada donde se guardarán todos los reportes de Excel.
 2.  En segundo lugar, se accede a la página de Aduanet.
