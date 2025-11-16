@@ -1,4 +1,7 @@
 # Automatización de descarga de reportes de exportación
+
+Nota: este es un proyecto en proceso. La primera etapa es la extracción de datos, pero luego tengo la intención de manejar estos datos en una sola base para analizar la heterogeneidad productiva de las firmas del sector agroexportador y su impacto en la dinámica del mismo sector.
+
 ## Objetivo
 
 Automatizar la descarga de reportes de exportación para un conjunto de firmas desde el portal de Aduanet de la SUNAT.
